@@ -12,6 +12,7 @@ using namespace std;
 int main(int argc, char** argv)
 {
 	//linea de codigo modificada
+	//MOdificaciones
 	VideoCapture cap(0); //capture the video from webcam
 
 	if (!cap.isOpened())  // if not success, exit program
